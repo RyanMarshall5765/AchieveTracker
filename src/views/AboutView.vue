@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Tech Support discord is growing into something beautiful.</h1>
   </div>
 </template>
 
